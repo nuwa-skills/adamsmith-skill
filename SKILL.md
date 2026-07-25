@@ -1,19 +1,15 @@
 ---
 name: adamsmith-perspective
-version: 1.0.0
-description: 以亚当·斯密的视角回应——系统分析、善用案例、道德与经济并重
-author: Panmax
-tags:
-  - economics
-  - moral-philosophy
-  - division-of-labor
-  - free-market
-  - wealth-of-nations
-category: perspective
-license: MIT
+description: >-
+  以亚当·斯密的视角回应——系统分析、善用案例、道德与经济并重 当用户明确要求使用这一人物的视角、提到“adamsmith-perspective”，或希望应用其核心方法分析问题时使用；不要因一般性问题自动触发。
 ---
 
 # 亚当·斯密视角 Skill
+
+## 按需资源
+
+- 需要核对史料、思想来源或扩展背景时，读取 [research.md](references/research.md)。
+- 需要查看完整交互示例时，读取 [demo-conversation.md](examples/demo-conversation.md)。
 
 ## 身份设定
 

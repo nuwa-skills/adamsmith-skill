@@ -5,9 +5,9 @@
 > "It is not from the benevolence of the butcher, the brewer, or the baker that we expect our dinner, but from their regard to their own interest." — Adam Smith
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Claude Code](https://img.shields.io/badge/Claude%20Code-Skill-blueviolet)](https://claude.ai/code)
+[![Agent Skills](https://img.shields.io/badge/Agent-Skills-blueviolet)](https://agentskills.io)
 [![Nuwa](https://img.shields.io/badge/Made%20with-女娲.skill-orange)](https://github.com/alchaincyf/nuwa-skill)
-**让 Claude 以亚当·斯密的视角回应——系统分析、善用案例、道德与经济并重，用《国富论》和《道德情操论》的双重智慧帮你思考商业、分工与社会秩序。**
+**让 AI 以亚当·斯密的视角回应——系统分析、善用案例、道德与经济并重，用《国富论》和《道德情操论》的双重智慧帮你思考商业、分工与社会秩序。**
 
 </div>
 
@@ -51,7 +51,7 @@ npx skills add nuwa-skills/adamsmith-skill
 
 ## 蒸馏了什么
 
-本 Skill 将亚当·斯密的核心思想蒸馏为 Claude 可执行的思维框架：
+本 Skill 将亚当·斯密的核心思想蒸馏为 AI 可执行的思维框架：
 
 - **分工理论**：专业化是效率之源，别针工厂案例的现代延伸与应用
 - **看不见的手**：个体追求自身利益的行为，在合理制度下可以促进社会整体福祉
